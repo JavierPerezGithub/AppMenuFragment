@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMenuFragment</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+    <string name="settings">Settings</string>
+    <string name="salida">Salir</string>
+    <string name="frag1">Primer fragmento</string>
+    <string name="acFrag1">Accedemos al fragmento 1</string>
+    <string name="frag2">Segundo fragmento</string>
+    <string name="acFrag2">Accedemos al fragmento 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
